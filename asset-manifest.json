@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Support-Request/static/css/main.debada74.chunk.css",
+    "main.js": "/Support-Request/static/js/main.88ba9e60.chunk.js",
+    "main.js.map": "/Support-Request/static/js/main.88ba9e60.chunk.js.map",
+    "runtime~main.js": "/Support-Request/static/js/runtime~main.bc8c640c.js",
+    "runtime~main.js.map": "/Support-Request/static/js/runtime~main.bc8c640c.js.map",
+    "static/css/2.6d62a1f9.chunk.css": "/Support-Request/static/css/2.6d62a1f9.chunk.css",
+    "static/js/2.6d7a127d.chunk.js": "/Support-Request/static/js/2.6d7a127d.chunk.js",
+    "static/js/2.6d7a127d.chunk.js.map": "/Support-Request/static/js/2.6d7a127d.chunk.js.map",
+    "index.html": "/Support-Request/index.html",
+    "precache-manifest.084d74c0668cd1d29413977668779a03.js": "/Support-Request/precache-manifest.084d74c0668cd1d29413977668779a03.js",
+    "service-worker.js": "/Support-Request/service-worker.js",
+    "static/css/2.6d62a1f9.chunk.css.map": "/Support-Request/static/css/2.6d62a1f9.chunk.css.map",
+    "static/css/main.debada74.chunk.css.map": "/Support-Request/static/css/main.debada74.chunk.css.map",
+    "static/media/all.css": "/Support-Request/static/media/fa-solid-900.f14c3b2f.ttf",
+    "static/media/index.css": "/Support-Request/static/media/microsoftLogo.319d9b9a.svg"
+  }
+}
